@@ -54,6 +54,8 @@ FOR FRONT
 
 This 6 cases are reflected in the code.
 
+L298N (Speed control, DC motor voltage 5-35V, Direction control, Peak current 2A), connect to 2 motors with wheels. The L298N is connected to the arduino and gets information from the distance sensors
+
 
 <br>
 
