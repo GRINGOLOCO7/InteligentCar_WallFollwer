@@ -5,7 +5,7 @@ For my physic first year project I decided to build a autonomus car that follow 
 
 ## Circuit Diagram
 
-<div style="text-align:center"><img src="./images/CircuitDiagram.png" width="" height="" /></div>
+<div style="text-align:center"><img src="Images/CircuitDiagram.png" width="" height="" /></div>
 
 [Tinkercad](https://github.com/un0038998/PS3ControlledCar/blob/main/Diagrams/PS3%20Controlled%20Car.png)
 
